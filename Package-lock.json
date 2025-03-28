@@ -1,1 +1,13 @@
-
+{
+  "name": "cdexapp",
+  "version": "1.0.0",
+  "lockfileVersion": 2,
+  "requires": true,
+  "dependencies": {
+    "express": {
+      "version": "4.17.1",
+      "resolved": "https://registry.npmjs.org/express/-/express-4.17.1.tgz",
+      "integrity": "sha512-mupR9bzjT0uHfS/2AzlE2/4B1JcXQ6Y4jS3HjW3kJY8fMZj6y5VET7cV8n1lP6rG5pGraxO0yZl8FfX9f7I1hQ=="
+    }
+  }
+}
